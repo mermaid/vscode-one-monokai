@@ -30,7 +30,7 @@
       "name": "String",
       "scope": "string",
       "settings": {
-        "foreground": "#e5c07b"
+        "foreground": "#98c379"
       }
     },
     {
@@ -44,7 +44,7 @@
       "name": "TemplateString",
       "scope": "string.template.js",
       "settings": {
-        "foreground": "#e5c07b"
+        "foreground": "#98c379"
       }
     },
     {
@@ -75,7 +75,7 @@
       "name": "Embeded String",
       "scope": "string.embedded",
       "settings": {
-        "foreground": "#98c379"
+        "foreground": "#e5c07b"
       }
     },
     {
@@ -178,7 +178,7 @@
       "name": "Inherited class",
       "scope": "entity.other.inherited-class",
       "settings": {
-        "foreground": "#98c379"
+        "foreground": "#e5c07b"
       }
     },
     {
@@ -188,7 +188,7 @@
         "support.function"
       ],
       "settings": {
-        "foreground": "#98c379"
+        "foreground": "#e5c07b"
       }
     },
     {
@@ -213,7 +213,7 @@
         "function.support.core"
       ],
       "settings": {
-        "foreground": "#98c379"
+        "foreground": "#e5c07b"
       }
     },
     {
@@ -241,7 +241,7 @@
       "name": "Tag attribute",
       "scope": "entity.other.attribute-name",
       "settings": {
-        "foreground": "#98c379"
+        "foreground": "#e5c07b"
       }
     },
     {
@@ -289,7 +289,7 @@
         "support.constant.sass"
       ],
       "settings": {
-        "foreground": "#98c379"
+        "foreground": "#e5c07b"
       }
     },
     {
@@ -313,7 +313,7 @@
         "variable.sass.string"
       ],
       "settings": {
-        "foreground": "#e5c07b"
+        "foreground": "#98c379"
       }
     },
     {
@@ -398,14 +398,14 @@
       "name": "diff.inserted",
       "scope": "markup.inserted",
       "settings": {
-        "foreground": "#e5c07b"
+        "foreground": "#98c379"
       }
     },
     {
       "name": "diff.changed",
       "scope": "markup.changed",
       "settings": {
-        "foreground": "#e5c07b"
+        "foreground": "#98c379"
       }
     },
     {
@@ -417,7 +417,7 @@
     {
       "scope": "entity.name.filename.find-in-files",
       "settings": {
-        "foreground": "#e5c07b"
+        "foreground": "#98c379"
       }
     },
     {
@@ -477,7 +477,7 @@
       "name": "Markdown: Quote",
       "scope": "markup.quote.markdown",
       "settings": {
-        "foreground": "#98c379"
+        "foreground": "#e5c07b"
       }
     },
     {
@@ -560,5 +560,5 @@
     "titleBar.inactiveBackground": "#282C34",
     "titleBar.inactiveForeground": "#6B717D"
   },
-  "name": "One Monokai"
+  "name": "One Mermaidkai"
 }
